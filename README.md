@@ -9,4 +9,9 @@ Run the script and follow the assistant:
 
 wget https://git.io/vbQxJ -O openvpninstall.sh && bash openvpninstall.sh
 
-Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
+Once it ends it will save the client.ovpn (or what ever you called the client file you created) file in the root folder. You will need to download this locally then transefer it to your device running the openvpn client, that may be an android client, ios or windows client.
+
+I just downloaded to my laptop, emailed to my my phone to use in android openvpnclient. You could use any suitable file share method from teamviwer to es explorer.
+
+
+you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
