@@ -3,6 +3,9 @@ A way to setup openvpn server on a vps to work around isp blocks
 OpenVPN road warrior installer for Debian, Ubuntu and CentOS.
 
 This script will let you setup your own VPN server in no more than a minute, even if you haven't used OpenVPN before. It has been designed to be as unobtrusive and universal as possible.
+
+You will already ready needed to purchase a vps or dedicated server. Try lowendboxes.com for reasonable providers. This can be has little has £3 a month. I wont digress on the best suppliers just check there feedback.
+
 Installation
 
 Run the script and follow the assistant:
